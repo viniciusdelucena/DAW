@@ -1,0 +1,20 @@
+p{
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-indent: 40px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: green;
+}
+
+ul li{
+    list-style-image: url("https://www.ifpb.edu.br/++theme++verde/img/favicon.ico");
+}
+
+ol li{
+    list-style-type: lower-roman;
+}
